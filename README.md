@@ -1,2 +1,2 @@
-# CifarWithMultiClassifier
-using cifar dataset and  centeral moments for features  , apply svm with several kernel  and  gaussian naive bayes classifier ,knn classifier
+# Central moment cifar dataset 
+Classify cifar dataset with creating feature central moment  then using machine learning algorithms (svm with different kernels , KNN , Gaussian Naïve Base ) to classify it 
